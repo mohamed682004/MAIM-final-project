@@ -1,6 +1,6 @@
 ## **README: Song Popularity Prediction**
 
-## Download the notebook to run the Dash board ##
+## Clone the notebook to run the Dashboard ##
 ### **Project Overview**
 
 This notebook explores the factors influencing song popularity using a dataset containing various music features. The goal is to build predictive models capable of accurately forecasting the popularity of songs.
